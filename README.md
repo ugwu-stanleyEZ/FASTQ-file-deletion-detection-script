@@ -5,7 +5,7 @@ This project includes an automated Python pipeline that parses through a FASTQ f
 
 ## 📌 Project Overview & The Challenge
 
-This project simulates a realistic data-cleaning pipeline that checks 4 father and child dna sequence in two different FASTQ file, it parses through the file content line by line to check for bad reads/Quality and deleted base in a dna sequence.
+This project simulates a realistic data-parsing pipeline that checks 4 father and child dna sequence in two different FASTQ file, it parses through the file content line by line to check for bad reads/Quality and deleted base in a dna sequence.
 
 ### Key Objectives:
 *   **Data Quality Assurance:** 
